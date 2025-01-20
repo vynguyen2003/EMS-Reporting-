@@ -38,7 +38,7 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 
    <img src="IMG_3976.PNG" alt="Sample Image" width="400">
 
-7. Step 7: Take an incidentphoto (Demo of a water bottle). Then Click 'Close' to close camera and Click 'Report Incident'
+7. Step 7: Take an incident photo (Demo of a water bottle). Then Click 'Close' to close camera and Click 'Report Incident'
 
    <img src="IMG_3979.PNG" alt="Sample Image" width="400">
 

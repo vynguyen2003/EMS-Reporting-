@@ -15,4 +15,5 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 # App Demo
 
 1. Step 1: First open the app
+
    <img src="IMG_3971.PNG" alt="Sample Image" width="400">
